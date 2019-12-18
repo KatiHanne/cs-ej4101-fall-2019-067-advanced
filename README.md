@@ -1,2 +1,2 @@
-# cs-ej4101-fall-2019-067-advanced
-cs-ej4101-fall-2019-067-advanced
+# this course 067
+I decided to take this course because the topic was of interest and I wanted to learn more about the way companies have in the recent years been developing their approach to ICT projects and development. As the speed to market and responsiveness seems of essence so much more than in the past, I was curious to learn more about DevOps as concept and lao to learn some examples and practicalities related to the topic. I have not worked and propably will not work in the near future in this mode myself but I think it is important to understand the approach as most of the development currently seems to follow the principles.
